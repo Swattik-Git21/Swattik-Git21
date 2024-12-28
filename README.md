@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Swattik-Git21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Swattik-Git21/Swattik-Git21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there 👋, Welcome to my Github page!
+- I’m Swattik Samanta, a Software Engineer having 3.5+ years of experience working in various domains like Full Stack, Frontend(EXT.js, React.js, HTML, CSS, JavaScript), Backend(.NET, C#), Data Analysis(Python, SQL, Power BI, Excel) and Data Science(ML, DL, LLM, Statistics).
+- 📫 Follow me on [Linkedin](https://www.linkedin.com/in/swattik-samanta-2aa44b178/)
