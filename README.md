@@ -1,5 +1,56 @@
-Hi there 👋, Welcome to my Github page!
-- I’m Swattik, a Software Engineer having 3.5+ years of experience working in various domains like Full Stack, Frontend(EXT.js, React.js, HTML, CSS, JavaScript), Backend(.NET, C#), Data Analysis(Python, SQL, Power BI, Excel) and Data Science(ML, DL, LLM, Statistics).
-- Practice site : [LeetCode](https://leetcode.com/u/Swattik_Samanta/), [CodeChef](https://www.codechef.com/users/swattik_2022), [Hackerrank](https://www.hackerrank.com/profile/swattik_official)
-- Certification : [Microsoft](https://learn.microsoft.com/en-us/users/swattiksamanta-4016/)
-- 📫 Follow me on [Linkedin](https://www.linkedin.com/in/swattik-samanta-2aa44b178/)
+<h1 align="center">Hi there 👋, I'm Swattik</h1>
+
+<h3 align="center">Data Analyst | Power BI Developer | Freelancer</h3>
+
+---
+
+🔍 I’m passionate about transforming data into actionable insights that drive smarter business decisions.
+
+🎯 I specialize in:
+- 📊 **Power BI Dashboards** – KPI tracking, financial reporting, sales analysis
+- 🐍 **Python for Data Analysis** – pandas, NumPy, matplotlib, seaborn
+- 🗃️ **SQL** – Data querying, joins, subqueries, optimization
+- 📈 **Excel** – Advanced formulas, pivot tables, VBA automation
+
+🛠️ I love building:
+- Interactive dashboards
+- Data automation scripts
+- Business reports for clients
+- Predictive models for analytics
+
+---
+
+### 🔥 Featured Projects
+
+Here are a few projects that showcase my work:
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [Sales Dashboard – Power BI](https://github.com/Swattik-Git21/Sales-Dashboard-PowerBI) | Interactive Power BI dashboard to monitor sales KPIs and trends. | Power BI, DAX |
+| [Customer Churn Prediction](https://github.com/Swattik-Git21/Customer-Churn-Prediction) | Machine learning model to predict customer churn with visuals. | Python, scikit-learn |
+| [Excel Automation Toolkit](https://github.com/Swattik-Git21/Excel-Automation-Tools) | Automate common Excel tasks using Python & VBA. | Excel, Python |
+
+---
+
+### 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
+- 🌐 [Portfolio Website](https://YOUR-PORTFOLIO.com)
+- 📧 Email: your@email.com
+
+---
+
+### 🧠 Currently Learning
+- Advanced DAX in Power BI
+- Google BigQuery & Data Studio
+- Freelance client management
+
+---
+
+### 📊 GitHub Stats (Optional)
+
+![Swattik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swattik-Git21&show_icons=true&theme=radical)
+
+---
+
+<!-- You can also add visitor badge, quotes, or other widgets -->
