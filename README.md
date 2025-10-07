@@ -35,8 +35,7 @@ Here are a few projects that showcase my work:
 ### 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
-- 🌐 [Portfolio Website](https://YOUR-PORTFOLIO.com)
-- 📧 Email: your@email.com
+- 📧 Email: swattik.official@gmail.com
 
 ---
 
