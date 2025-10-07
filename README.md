@@ -34,7 +34,7 @@ Here are a few projects that showcase my work:
 
 ### 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
+- 💼 [LinkedIn](https://www.linkedin.com/in/swattik-samanta-2aa44b178/)
 - 📧 Email: swattik.official@gmail.com
 
 ---
