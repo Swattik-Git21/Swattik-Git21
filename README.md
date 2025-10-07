@@ -26,9 +26,7 @@ Here are a few projects that showcase my work:
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Sales Dashboard – Power BI](https://github.com/Swattik-Git21/Sales-Dashboard-PowerBI) | Interactive Power BI dashboard to monitor sales KPIs and trends. | Power BI, DAX |
-| [Customer Churn Prediction](https://github.com/Swattik-Git21/Customer-Churn-Prediction) | Machine learning model to predict customer churn with visuals. | Python, scikit-learn |
-| [Excel Automation Toolkit](https://github.com/Swattik-Git21/Excel-Automation-Tools) | Automate common Excel tasks using Python & VBA. | Excel, Python |
+| [Super Store Sales Dashboard – Power BI](https://github.com/Swattik-Git21/Sales-Dashboard-PowerBI) | Interactive Power BI dashboard to monitor sales KPIs and trends and sales forcasting | Power BI, DAX |
 
 ---
 
