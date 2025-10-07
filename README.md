@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Swattik</h1>
 
-<h3 align="center">Data Analyst | Power BI Developer | Freelancer</h3>
+<h3 align="center">Data Analyst | Power BI Developer</h3>
 
 ---
 
