@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Swattik</h1>
 
-<h3 align="center">Data Analyst | Power BI Developer</h3>
+<h3 align="center">Data Analyst</h3>
 
 ---
 
@@ -8,9 +8,9 @@
 
 🎯 I specialize in:
 - 📊 **Power BI Dashboards** – KPI tracking, financial reporting, sales analysis
-- 🐍 **Python for Data Analysis** – pandas, NumPy, matplotlib, seaborn
+- 🐍 **Python for Data Analysis** – pandas, NumPy, matplotlib, seaborn, automation
 - 🗃️ **SQL** – Data querying, joins, subqueries, optimization
-- 📈 **Excel** – Advanced formulas, pivot tables, VBA automation
+- 📈 **Excel** – Advanced formulas, pivot tables, excel based analysis
 
 🛠️ I love building:
 - Interactive dashboards
