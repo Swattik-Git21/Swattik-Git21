@@ -26,7 +26,7 @@ Here are a few projects that showcase my work:
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Store Sales Dashboard – Power BI](https://github.com/Swattik-Git21/Sales-Dashboard-PowerBI) | Interactive Power BI dashboard to monitor sales KPIs and trends and sales forcasting | Power BI, DAX |
+| [Store Sales Dashboard – Power BI](https://github.com/Swattik-Git21/Sales-Dashboard-PowerBI) | Interactive Power BI dashboard to monitor sales KPIs, trends and sales forcasting | Power BI, DAX |
 
 ---
 
